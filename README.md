@@ -28,5 +28,5 @@ https://youtu.be/voIzorqduHk
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/recipe-hub.git
+   git clone hgit@github.com:sandhyac18091/RecipeHub.git
    cd recipe-hub
