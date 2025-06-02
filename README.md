@@ -2,7 +2,7 @@
 
 Recipe Hub is a React-based web application that helps users discover delicious recipes easily. Search for recipes by name or explore a selection of random recipes to get inspired in the kitchen!
 
-## Features
+## 🪄 Features
 
 - Search recipes by name using TheMealDB API
 - Display a curated list of random recipes on the homepage
