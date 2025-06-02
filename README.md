@@ -25,13 +25,6 @@ https://youtu.be/voIzorqduHk
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js (v14 or above recommended)
-- npm or yarn package manager
-
-### Installation
-
 1. Clone the repository:
 
    ```bash
