@@ -29,4 +29,4 @@ https://youtu.be/voIzorqduHk
 
    ```bash
    git clone hgit@github.com:sandhyac18091/RecipeHub.git
-   cd recipe-hub
+   cd Recipehub
